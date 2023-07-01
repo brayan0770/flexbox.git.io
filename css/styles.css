@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgoldenrodyellow;
+}
+
+.verde {
+    background-color: lightgreen;
+    border: solid 1px red;
+}
+
+.magenta {
+    background-color: magenta;
+    padding: 5px;
+}
+
+.alturaslider {
+    height: 500px;
+}
+
+.alturasection {
+    height: 200px;
+}
